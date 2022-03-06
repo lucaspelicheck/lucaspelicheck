@@ -1,16 +1,34 @@
-### Hi there 👋
+![banner](https://ppmworks.com/wp-content/uploads/2019/09/power-bi-banner.jpg)
 
-<!--
-**lucaspelicheck/lucaspelicheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, eu sou Lucas Pelicheck</h1>
+<h3 align="center">Aqui você encontra projetos utilizando a ferramenta POWER BI</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaspelicheck&label=Profile%20views&color=0e75b6&style=flat" alt="lucaspelicheck" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou me aperfeiçoando em **POWER BI, DAX, PYTHON, LINGUAGEM R, LINGUAGEM M**
+
+- 👨‍💻 Meus projetos estão disponíveis em: [https://github.com/lucaspelicheck](https://github.com/lucaspelicheck)
+
+- 📝 Escrevo regularmente em: [www.linkedin.com/in/lucas-pelicheck](www.linkedin.com/in/lucas-pelicheck)
+
+- 💬 Pergunte-me sobre **POWER BI**
+
+- 📫 Contato: **lucas_pelicheck@hotmail.com**
+
+- 📄 Sobre mim: [www.linkedin.com/in/lucas-pelicheck](www.linkedin.com/in/lucas-pelicheck)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lucas-pelicheck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-pelicheck" height="30" width="40" /></a>
+<a href="https://instagram.com/lucaspelicheck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaspelicheck" height="30" width="40" /></a>
+</p>
+
+🚀 Habilidades
+
+POWER BI, DAX, M, PYTHON, MYSQL, POSTGRESQL
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaspelicheck&show_icons=true&theme=dark&locale=en&layout=compact" alt="lucaspelicheck" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspelicheck&show_icons=true&theme=dark&locale=en" alt="lucaspelicheck" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspelicheck&theme=dark" alt="lucaspelicheck" /></p>
